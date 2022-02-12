@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![妖月](Inner-ghost.png)
+![妖月](https://github.com/gtion/gtion/blob/main/Inner%20ghost.png)
 
 
 <!---
